@@ -1,0 +1,9 @@
+[submodule "PatroArcade-GodotExtension"]
+	path = PatroArcade-GodotExtension
+	url = https://github.com/luisfpatrocinio/PatroArcade-GodotExtension.git
+[submodule "PatroArcade-WebServer"]
+	path = PatroArcade-WebServer
+	url = https://github.com/luisfpatrocinio/PatroArcade-WebServer.git
+[submodule "PatroArcade-API"]
+	path = PatroArcade-API
+	url = https://github.com/luisfpatrocinio/PatroArcade-API.git
